@@ -7,6 +7,8 @@ public class Principal {
 
 		System.out.println("buenos dias soy sergio 2");
 		
+		System.out.println("Hola soy Isco");
+		
 	}
 
 }
